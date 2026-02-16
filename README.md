@@ -62,3 +62,17 @@ git clone https://github.com/<rofhiwasebeyi-ops>/Fake-News-Detection.git
 
 4. Run the main script:
    streamlit run src/app.py
+
+# Application Demo
+
+## User Interface
+![App Interface](screenshots/app_interface.png)
+
+## Models Prediction
+![Models Prediction](screenshots/models_prediction.png)
+
+## LIME Explanation (Meta model)
+![LIME Explaination](screenshots/lime_explainations.png)
+
+## LIME Explanation (Top Words Affecting Prediction)
+![LIME Explaination](screenshots/top_words_affecting_predictiont.png)
