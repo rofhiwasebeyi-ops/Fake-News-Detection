@@ -69,10 +69,10 @@ git clone https://github.com/<rofhiwasebeyi-ops>/Fake-News-Detection.git
 ![App Interface](screenshots/app_interface.png)
 
 ## Models Prediction
-![Models Prediction](screenshots/models_prediction.png)
+![Models Prediction](screenshots/models_predictions.png)
 
 ## LIME Explanation (Meta model)
 ![LIME Explaination](screenshots/lime_explainations.png)
 
 ## LIME Explanation (Top Words Affecting Prediction)
-![LIME Explaination](screenshots/top_words_affecting_predictiont.png)
+![LIME Explaination](screenshots/top_words_affecting_prediction.png)
