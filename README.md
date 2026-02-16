@@ -27,3 +27,15 @@ It is built to help combat misinformation by automatically analyzing news conten
 - **Accuracy Example:** 93% (Logistic Regression)  
 - Confusion Matrix and ROC Curve visuals.  
 - Model selection is based on highest accuracy and best ROC-AUC score.
+
+# Fine-Tuned DistilBERT Model
+Download the trained model here:
+  [Download Model][https://drive.google.com/drive/folders/1sbpzWzypRmq3nEM19zmmjrG5q1H0ifvf?usp=sharing]
+
+Place it inside the 'models/fine_tuned_distilbert_fake_news/' folder before running the project.
+
+# Dataset
+Download the dataset here:
+ [Download Model][https://drive.google.com/drive/folders/1C7EkZAzVELo4eq1vN2qt_HTvpjcZ4ZBH?usp=sharing]
+
+Place it inside the 'data/' folder before running the project.
