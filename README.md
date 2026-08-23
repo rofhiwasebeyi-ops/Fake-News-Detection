@@ -52,7 +52,7 @@ The datasets were processed and combined to create a binary classification datas
 
 The actual datasets are not included in this repository because of their size and distribution considerations.
 
-Instructions and links for accessing the datasets are provided in:
+Links for accessing the datasets are provided in:
 
 ```text
 dataset_and_model_links.txt
